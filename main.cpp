@@ -86,7 +86,7 @@ int main()
 {
 	clsCalculater Calculater;
 
-	Calculater.Add(150);
+	Calculater.Add(200);
 	Calculater.PrintResult();
 
 	Calculater.Divided(2);
